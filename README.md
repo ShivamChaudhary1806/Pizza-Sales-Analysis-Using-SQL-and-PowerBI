@@ -2,6 +2,7 @@
 Pizza Sales Analysis using SQL queries and PowerBI DAX Functions,PowerQueryEditor
 
 Steps in Project
+
 A) In MYSQL:
 1) Import data
 2) Made Schema Database
