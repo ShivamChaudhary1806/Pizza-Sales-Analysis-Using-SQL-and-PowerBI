@@ -6,7 +6,7 @@ Steps in Project
 A) In MYSQL:
 1) Import data
 2) Made Schema Database
-3) Writing Various SQL Quries
+3) Writing Various SQL Queries
 4) Create Report of MYSQL Queries
 
 B) In PowerBI:
