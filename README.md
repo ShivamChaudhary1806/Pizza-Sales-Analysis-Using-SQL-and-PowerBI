@@ -1,16 +1,22 @@
 # Pizza-Sales-Analysis-Using-SQL-and-PowerBI
 Pizza Sales Analysis using SQL queries and PowerBI DAX Functions,PowerQueryEditor
 
-Steps in Project
+Steps Performed in Project
 
-A) In MYSQL:
-1) Import data
-2) Made Schema Database
-3) Writing Various SQL Queries
-4) Create Report of MYSQL Queries
+A) In MYSQL
 
-B) In PowerBI:
-1) Connected MYSQL to PowerBI
-2) Data Cleaning - Replace Values
-3) Data Processing - Extracted DayName,DayNumber,MonthName,MonthNumber From Date
-4) Data Visualization - StackedColumnChart,AreaChart,DonutChart,FunnelChart,StackedBarChart
+1)  Data Import - Imported data in MYSQL
+2)  Schema Creation - Designed a database schema for organizing the pizza sales data effectively.
+3) SQL Queries - Fired various SQL queries to analyze sales trends and metrics. 
+4) Query Report - Summarized findings from SQL queries in a report format.
+
+
+B) Power BI
+
+1)  Data Connection - Connected MySQL database to Power BI for analysis
+2) Data Cleaning - Cleaned the data to ensure accuracy.
+3) Data Processing - Extracted DayName, DayNumber, MonthName,      MonthNumber From Date for Analysis
+4) Visualization - Visualized Pizzasales data using various chart types like StackedColumnChart, AreaChart, DonutChart, FunnelChart, StackedBarChart.
+
+
+
