@@ -10,6 +10,7 @@ A) In MYSQL:
 4) Create Report of MYSQL Queries
 
 B) In PowerBI:
-1) Data Cleaning - Replace Values
-2) Data Processing - Extracted DayName,DayNumber,MonthName,MonthNumber From Date
-3) Data Visualization - StackedColumnChart,AreaChart,DonutChart,FunnelChart,StackedBarChart
+1) Connected MYSQL to PowerBI
+2) Data Cleaning - Replace Values
+3) Data Processing - Extracted DayName,DayNumber,MonthName,MonthNumber From Date
+4) Data Visualization - StackedColumnChart,AreaChart,DonutChart,FunnelChart,StackedBarChart
